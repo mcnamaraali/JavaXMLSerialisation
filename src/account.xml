@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<accounts>
+ 	<account>
+ 		<accountNumber>100</accountNumber>
+ 		<balance>24.98</balance>
+ 		<firstName>Bob</firstName>
+ 		<lastName>Blue</lastName>
+ 	</account>
+  <account>
+ 		<accountNumber>200</accountNumber>
+ 		<balance>-345.67</balance>
+ 		<firstName>Bob</firstName>
+ 		<lastName>Go</lastName>
+ </account>
+  <account>
+ 		<accountNumber>100</accountNumber>
+ 		<balance>-42.16</balance>
+ 		<firstName>Palm</firstName>
+ 		<lastName>White</lastName>
+ </account>
+  <account>
+ 		<accountNumber>100</accountNumber>
+ 		<balance>224.64</balance>
+ 		<firstName>Sue</firstName>
+ 		<lastName>Yellow</lastName>
+ </account>
+ </accounts>
